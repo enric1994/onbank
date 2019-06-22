@@ -24,3 +24,19 @@ services:
       # Uncomment the following line to plot images on Linux
       #- /tmp/.X11-unix:/tmp/.X11-unix
     command: tail /dev/null -f
+
+  face:
+    image: face
+    container_name: face
+    working_dir: /face/src/face
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.face
+    ports:
+      - 5000:5000
+    volumes:
+      - ../:/face
+      - /dev/video0:/dev/video0
+    command: tail /dev/null -f
+    privileged: true
+    runtime: nvidia
