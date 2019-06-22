@@ -3,16 +3,33 @@
 
 {% block page_content %}
 
-    <div id="namediv" class="form-group">
+    <div class="form-group">
         <label for="forename">Name</label>
         <input id='forename' type='text' class="form-control" placeholder="Alan Greenspan" name='forename'
-        value="Alan Greenspan" autofocus></input>
+        value="David Azcona" autofocus></input>
     </div>
+
+    <hr class="my-4">
     
-    <div id="emaildiv" class="form-group">
+    <div class="form-group">
         <label for="email">Email</label>
         <input id="email" type='text' class="form-control" placeholder="alan@greenspan.com" name='email'
-        value='alan@greenspan.com' autofocus></input>
+        value='david.azcona@asu.edu' autofocus></input>
+    </div>
+
+    <hr class="my-4">
+
+    <div class="form-group">
+        <label for="address">Address</label>
+        <input id="email" type='text' class="form-control" placeholder="Your address if any" name='address'
+        value='' autofocus></input>
+    </div>
+
+    <hr class="my-4">
+
+    <div class="form-group">
+        <label for="doc">Documentation</label>
+        <input id="capture" type="file" name="capture" accept=".pdf">
     </div>
 
     <a class="btn btn-primary btn-lg" href="picture" role="button">Next</a>

@@ -52,6 +52,8 @@ def video_feed():
 def success():
 	generate()
 	return render_template('success.html')
+	name = 'David Azcona'
+	return render_template('success.html', name=name)
 
 
 # MAP
