@@ -25,7 +25,8 @@ RUN cmake --build /dlib/build
 RUN cd /dlib; python3 /dlib/setup.py install
 
 RUN pip3 install \
-flask \
+Flask \
+Flask-Bootstrap \
 opencv-python \
 face_recognition
 
