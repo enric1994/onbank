@@ -1,0 +1,5593 @@
+[ 
+  {
+    "Identification" : "2152462253764",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "182 ABERCROMBY STREET", "GLASGOW", "GLASGOW", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.85282300",
+            "Longitude" : "-004.22867800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21674666105321",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ALBERT STREET", "TAYSIDE", "TAYSIDE", "." ],
+        "TownName" : "TAYSIDE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.47109700",
+            "Longitude" : "-002.95695800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21134683467075",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "40 ALBYN PLACE", "ABERDEEN", "ABERDEENSHIRE", "." ],
+        "TownName" : "ABERDEEN",
+        "CountrySubDivision" : [ "ABERDEENSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.14274900",
+            "Longitude" : "-002.12446100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21134683467075490",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "40 ALBYN PLACE", "ABERDEEN", "GRAMPIAN", "." ],
+        "TownName" : "ABERDEEN",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.14274900",
+            "Longitude" : "-002.12446100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21464674046198",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "14 ALLAN STREET", "BLAIRGOWRIE", "TAYSIDE", "." ],
+        "TownName" : "BLAIRGOWRIE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.59247200",
+            "Longitude" : "-003.33840700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21174633564422",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ALMONDVALE AVENUE", "LIVINGSTON", "WEST LOTHIAN", "." ],
+        "TownName" : "LIVINGSTON",
+        "CountrySubDivision" : [ "WEST LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.88480800",
+            "Longitude" : "-003.51784500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21204619555010",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "4 ALMONDVALE SOUTH", "LIVINGSTON", "LOTHIAN", "." ],
+        "TownName" : "LIVINGSTON",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.88461400",
+            "Longitude" : "-003.51097900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2187463460672",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "53 HIGH STREET", "ALNESS", "HIGHLANDS", "." ],
+        "TownName" : "ALNESS",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.69589400",
+            "Longitude" : "-004.25230000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21804667985676",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "54 HIGH STREET", "ANGUS", "ANGUS", "." ],
+        "TownName" : "ANGUS",
+        "CountrySubDivision" : [ "ANGUS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.71249100",
+            "Longitude" : "-002.46865000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21364627305164",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ANNFIELD PLACE", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.85873400",
+            "Longitude" : "-004.22291200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21914691836605",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HIGH STREET", "ARBROATH", "ANGUS", "." ],
+        "TownName" : "ARBROATH",
+        "CountrySubDivision" : [ "ANGUS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.56081400",
+            "Longitude" : "-002.58317200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21854688345543",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "11 ARGYLE STREET", "ULLAPOOL", "HIGHLANDS", "." ],
+        "TownName" : "ULLAPOOL",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.89673100",
+            "Longitude" : "-005.15775400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "215461611204",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ATM SITE 2", "STIRLING", "STIRLING", "." ],
+        "TownName" : "STIRLING",
+        "CountrySubDivision" : [ "STIRLING" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.11702700",
+            "Longitude" : "-003.93377100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21144660048649",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 AYRES WYND", "PRESTONPANS", "EAST LOTHIAN", "." ],
+        "TownName" : "PRESTONPANS",
+        "CountrySubDivision" : [ "EAST LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95931100",
+            "Longitude" : "-002.98414400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21564697974707",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "BALFOUR STREET", "DUNDEE", "TAYSIDE", "." ],
+        "TownName" : "DUNDEE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.45767400",
+            "Longitude" : "-002.98230800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21714682464516",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "BANK STREET", "ELIE", "FIFE", "." ],
+        "TownName" : "ELIE",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.19065600",
+            "Longitude" : "-002.82286000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2185469578101",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "35 BANK STREET", "GALASHIELS", "BORDERS", "." ],
+        "TownName" : "GALASHIELS",
+        "CountrySubDivision" : [ "BORDERS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.61538400",
+            "Longitude" : "-002.80715000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21714688533974",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "BANK STREET", "PORTREE", "HIGHLANDS", "." ],
+        "TownName" : "PORTREE",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.41184000",
+            "Longitude" : "-006.19320800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2175464698434",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 BERNARD STREET", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.97570800",
+            "Longitude" : "-003.16669800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21824652373664",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "104 HIGH STREET", "BIGGAR", "STRATHCLYDE", "." ],
+        "TownName" : "BIGGAR",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.62461100",
+            "Longitude" : "-003.52119300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21974696709293",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "64 BRIDGE ROAD", "EDINBURGH", "MIDLOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "MIDLOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.90742000",
+            "Longitude" : "-003.25682100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21274630376439",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "12 BRIDGE STREET", "MUSSELBURGH", "LOTHIAN", "." ],
+        "TownName" : "MUSSELBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94301400",
+            "Longitude" : "-003.05659800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21584658339721",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "15 BRIDGE STREET", "STRANRAER", "DUMFRIES & GALLOWAY", "." ],
+        "TownName" : "STRANRAER",
+        "CountrySubDivision" : [ "DUMFRIES & GALLOWAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "054.90374800",
+            "Longitude" : "-005.02619900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "212946353693",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "62 BROAD STREET", "FRASERBURGH", "GRAMPIAN", "." ],
+        "TownName" : "FRASERBURGH",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.69171400",
+            "Longitude" : "-002.00507900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21204618391214",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "BRODICK", "BRODICK", "ISLE OF ARRAN", "." ],
+        "TownName" : "BRODICK",
+        "CountrySubDivision" : [ "ISLE OF ARRAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.57709300",
+            "Longitude" : "-005.14740700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21744648289298",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "288 BROOK STREET", "DUNDEE", "TAYSIDE", "." ],
+        "TownName" : "DUNDEE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.46675200",
+            "Longitude" : "-002.87230300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21594645653594",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "BROTHOCK BRIDGE", "ARBROATH", "TAYSIDE", "." ],
+        "TownName" : "ARBROATH",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.55859300",
+            "Longitude" : "-002.58359400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21194659764015",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "206 BRUNTSFIELD PLACE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93613400",
+            "Longitude" : "-003.20964400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21944633893719",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "9 HIGH STREET", "BURNTISLAND", "FIFE", "." ],
+        "TownName" : "BURNTISLAND",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.05391300",
+            "Longitude" : "-003.30111500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21744637416703",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "339 BYRES ROAD", "GLASGOW", "GLASGOW", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.87714800",
+            "Longitude" : "-004.29204100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21744637416703410",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "339 BYRES ROAD", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.87714800",
+            "Longitude" : "-004.29204100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21554616121669",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "97 HIGH STREET", "CARNOUSTIE", "ANGUS", "." ],
+        "TownName" : "CARNOUSTIE",
+        "CountrySubDivision" : [ "ANGUS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.50135000",
+            "Longitude" : "-002.71194400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21924695601888",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "CARTSDYKE AVENUE", "GREENOCK", "RENFREWSHIRE", "." ],
+        "TownName" : "GREENOCK",
+        "CountrySubDivision" : [ "RENFREWSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94412300",
+            "Longitude" : "-004.73877100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "216463769963",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "122 CATHCART STREET", "GREENOCK", "STRATHCLYDE", "." ],
+        "TownName" : "GREENOCK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94704400",
+            "Longitude" : "-004.75448400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21404640514826",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "CENTRAL WAY", "PAISLEY", "STRATHCLYDE", "." ],
+        "TownName" : "PAISLEY",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.84626800",
+            "Longitude" : "-004.42277000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21554632632277",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "49 CHARING CROSS", "LONDON", "LONDON", "." ],
+        "TownName" : "LONDON",
+        "CountrySubDivision" : [ "LONDON" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "051.50684100",
+            "Longitude" : "-000.12776900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2170469296133",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "56 CHESTERGATE", "MACCLESFIELD", "CHESHIRE", "." ],
+        "TownName" : "MACCLESFIELD",
+        "CountrySubDivision" : [ "CHESHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "053.26067800",
+            "Longitude" : "-002.12794700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21264637383668",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "CHURCH SQUARE", "INVERARAY", "STRATHCLYDE", "." ],
+        "TownName" : "INVERARAY",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.23052200",
+            "Longitude" : "-005.07356600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2156467170560",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "8 CHURCH STREET", "JOHNSTONE", "STRATHCLYDE", "." ],
+        "TownName" : "JOHNSTONE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.83656200",
+            "Longitude" : "-004.51362200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21854641715872",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "9 CLIFTON PLACE", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86623300",
+            "Longitude" : "-004.28017700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "216946921323",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 COLQUHOUN SQUARE", "HELENSBURGH", "STRATHCLYDE", "." ],
+        "TownName" : "HELENSBURGH",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.00400100",
+            "Longitude" : "-004.73495500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21984630931042",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "81 COMMERCIAL STREET", "LERWICK", "SHETLAND", "." ],
+        "TownName" : "LERWICK",
+        "CountrySubDivision" : [ "SHETLAND" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "060.15314000",
+            "Longitude" : "-001.14115800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2194692174813",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "CORNHILL ROAD", "ABERDEEN", "ABERDEENSHIRE", "." ],
+        "TownName" : "ABERDEEN",
+        "CountrySubDivision" : [ "ABERDEENSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.15435400",
+            "Longitude" : "-002.11719300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21474686684069",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "41 CORNMARKET", "DERBY", "DERBYSHIRE", "." ],
+        "TownName" : "DERBY",
+        "CountrySubDivision" : [ "DERBYSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "052.92235500",
+            "Longitude" : "-001.47677200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2143461959431",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "32 COURT STREET", "HADDINGTON", "LOTHIAN", "." ],
+        "TownName" : "HADDINGTON",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95589100",
+            "Longitude" : "-002.78033100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21964689292615",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "116 COWGATE", "KIRKINTILLOCH", "GLASGOW", "." ],
+        "TownName" : "KIRKINTILLOCH",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93877900",
+            "Longitude" : "-004.15603100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21964689292615420",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "116 COWGATE", "KIRKINTILLOCH", "STRATHCLYDE", "." ],
+        "TownName" : "KIRKINTILLOCH",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93877900",
+            "Longitude" : "-004.15603100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21434684881320",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 CRAIGENTINNY AVENUE", "EDINBURGH", "MIDLOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "MIDLOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95835700",
+            "Longitude" : "-003.13779300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21624668132595",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "63 HIGH STREET", "DALKEITH", "LOTHIAN", "." ],
+        "TownName" : "DALKEITH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.89453500",
+            "Longitude" : "-003.07034400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21914699141314",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HIGH STREET", "DINGWALL", "HIGHLANDS", "." ],
+        "TownName" : "DINGWALL",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.59580300",
+            "Longitude" : "-004.42708400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21324611631549",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "24 DOUGLAS STREET", "MILNGAVIE", "STRATHCLYDE", "." ],
+        "TownName" : "MILNGAVIE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94143200",
+            "Longitude" : "-004.31820900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21524689188067",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "DR GRAYS HOSPITAL", "ELGIN", "GRAMPIAN", "." ],
+        "TownName" : "ELGIN",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.64650700",
+            "Longitude" : "-003.32699600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21534684309339",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "DRUMMOND STREET", "COMRIE", "PERTHSHIRE", "." ],
+        "TownName" : "COMRIE",
+        "CountrySubDivision" : [ "PERTHSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.37458400",
+            "Longitude" : "-003.98686500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2154463006227",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "1304 DUKE STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.85237200",
+            "Longitude" : "-004.19781600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2194630776122",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "37 HIGH STREET", "DUMBARTON", "STRATHCLYDE", "." ],
+        "TownName" : "DUMBARTON",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94299700",
+            "Longitude" : "-004.56957200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21864685311149",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "151 HIGH STREET", "DUMFRIES", "DUMFRIES & GALLOWAY", "." ],
+        "TownName" : "DUMFRIES",
+        "CountrySubDivision" : [ "DUMFRIES & GALLOWAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.06918800",
+            "Longitude" : "-003.61152700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21694648449802",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "280 DUNBARTON ROAD", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "051.84413200",
+            "Longitude" : "-004.30643800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21364639556440",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "3 HIGH STREET", "DUNDEE", "TAYSIDE", "." ],
+        "TownName" : "DUNDEE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.46107600",
+            "Longitude" : "-002.96889400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21884661404587",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "12 DUNKELD ROAD", "PERTH", "TAYSIDE", "." ],
+        "TownName" : "PERTH",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.40276300",
+            "Longitude" : "-003.44164000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2134461673329",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "DURIE STREET", "LEVEN", "FIFE", "." ],
+        "TownName" : "LEVEN",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.20121000",
+            "Longitude" : "-003.01441100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2191462287891",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HIGH STREET", "EARLSTON", "SCOTTISH BORDERS", "." ],
+        "TownName" : "EARLSTON",
+        "CountrySubDivision" : [ "SCOTTISH BORDERS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.63839200",
+            "Longitude" : "-002.67554500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "216946718082",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "65 EAST HIGH STREET", "FORFAR", "TAYSIDE", "." ],
+        "TownName" : "FORFAR",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.64471000",
+            "Longitude" : "-002.88593000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "213468559794",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "68 EAST MAIN STREET", "BROXBURN", "WEST LOTHIAN", "." ],
+        "TownName" : "BROXBURN",
+        "CountrySubDivision" : [ "WEST LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93422800",
+            "Longitude" : "-003.46853400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21614680541791",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "52/54 EAST PORT", "DUNFERMLINE", "FIFE", "." ],
+        "TownName" : "DUNFERMLINE",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.06833300",
+            "Longitude" : "-003.44961300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21124640308251",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "4 EASTGATE", "PEEBLES", "BORDERS", "." ],
+        "TownName" : "PEEBLES",
+        "CountrySubDivision" : [ "BORDERS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.65179000",
+            "Longitude" : "-003.18878400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2189462839305",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "EASTGATE SHOPPING CENTRE", "INVERNESS", "INVERNESS", "." ],
+        "TownName" : "INVERNESS",
+        "CountrySubDivision" : [ "INVERNESS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.47915700",
+            "Longitude" : "-004.22079000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21794650619057",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "EASTON PLACE", "COATBRIDGE", "STRATHCLYDE", "." ],
+        "TownName" : "COATBRIDGE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.85344900",
+            "Longitude" : "-004.01961800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2197469316772",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "EDAY ROAD", "ABERDEEN", "GRAMPIAN", "." ],
+        "TownName" : "ABERDEEN",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.14737400",
+            "Longitude" : "-002.17156100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21204643335528",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "EDINBURGH QUAY", "EDINBURGH", "EDINBURGH", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "EDINBURGH" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93506000",
+            "Longitude" : "-003.33290700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21204693215833",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "EDINBURGH QUAY", "EDINBURGH", "SCOTLAND", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "SCOTLAND" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.92899000",
+            "Longitude" : "-003.30224000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2184689905952",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "209 HIGH STREET", "ELGIN", "GRAMPIAN", "." ],
+        "TownName" : "ELGIN",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.64841700",
+            "Longitude" : "-003.31868800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2184689905952410",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "209 HIGH STREET", "ELGIN", "MORAYSHIRE", "." ],
+        "TownName" : "ELGIN",
+        "CountrySubDivision" : [ "MORAYSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.64841700",
+            "Longitude" : "-003.31868800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21154679229107",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ERSKINE FERRY ROAD", "PAISLEY", "STRATHCLYDE", "." ],
+        "TownName" : "PAISLEY",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.91568000",
+            "Longitude" : "-004.48556400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2149468206225",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "3 FALKLAND GATE", "GLASGOW", "FIFE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.19651500",
+            "Longitude" : "-003.17247300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2149468206225740",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "3 FALKLAND GATE", "GLENROTHES", "FIFE", "." ],
+        "TownName" : "GLENROTHES",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.19651500",
+            "Longitude" : "-003.17247300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2126463604650",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "158A FENWICK ROAD", "GIFFNOCK", "STRATHCLYDE", "." ],
+        "TownName" : "GIFFNOCK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.80399100",
+            "Longitude" : "-004.29523900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2177466011627",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 FIFE STREET", "DUFFTOWN", "MORAY", "." ],
+        "TownName" : "DUFFTOWN",
+        "CountrySubDivision" : [ "MORAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.44482300",
+            "Longitude" : "-003.12678500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21124673119354",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "1 FLEET STREET", "LONDON", "LONDON", "." ],
+        "TownName" : "LONDON",
+        "CountrySubDivision" : [ "LONDON" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "051.51353600",
+            "Longitude" : "-000.11179900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2197462056975",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "FORREST ROAD", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94571000",
+            "Longitude" : "-003.19149600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21154618275248",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "6 HIGH STREET", "FORT WILLIAM", "HIGHLANDS", "." ],
+        "TownName" : "FORT WILLIAM",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.81854900",
+            "Longitude" : "-005.10982100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2128467930973",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "26 GEORGE STREET", "OBAN", "STRATHCLYDE", "." ],
+        "TownName" : "OBAN",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.41355800",
+            "Longitude" : "-005.47209300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21114612166025",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "GLENEDEN COURT", "LENZIE", "EAST DUNBARTONSHIRE", "." ],
+        "TownName" : "LENZIE",
+        "CountrySubDivision" : [ "EAST DUNBARTONSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.92207200",
+            "Longitude" : "-004.15447900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2175461611204",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "GOOSECROFT ROAD", "STIRLING", "STIRLING", "." ],
+        "TownName" : "STIRLING",
+        "CountrySubDivision" : [ "STIRLING" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.11702700",
+            "Longitude" : "-003.93377100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21194655839584",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "10 GORDON STREET", "GLASGOW", "GLASGOW", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86031900",
+            "Longitude" : "-004.25480500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21224631564964",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "GORDON STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86040200",
+            "Longitude" : "-004.25762200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21224655839584",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "GORDON STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86031900",
+            "Longitude" : "-004.25480500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21714618687119",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "GRAHAM STREET", "AIRDRIE", "LANARKSHIRE", "." ],
+        "TownName" : "AIRDRIE",
+        "CountrySubDivision" : [ "LANARKSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86632900",
+            "Longitude" : "-003.97975500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21494638595947",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "GREENSIDE PLACE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95624500",
+            "Longitude" : "-003.18550900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21444655768438",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "62 HAMILTON ROAD", "MOTHERWELL", "STRATHCLYDE", "." ],
+        "TownName" : "MOTHERWELL",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.78970700",
+            "Longitude" : "-003.99515000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21104661633477",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "29 HARBOUR ROAD", "INVERNESS", "HIGHLANDS", "." ],
+        "TownName" : "INVERNESS",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.48477600",
+            "Longitude" : "-004.22109800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21924689415183",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HAYMARKET", "EDINBURGH", "MID LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "MID LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94567200",
+            "Longitude" : "-003.21831600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21104689415183",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HAYMARKET TERRACE", "EDINBURGH", "MIDLOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "MIDLOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94567200",
+            "Longitude" : "-003.21831600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2134678106794",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HERIOT WATT UNIVERSITY", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.90942900",
+            "Longitude" : "-003.32070100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21274652045444",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HIGH ST", "ALLOA", "ALLOA", "." ],
+        "TownName" : "ALLOA",
+        "CountrySubDivision" : [ "ALLOA" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.11556200",
+            "Longitude" : "-003.79139300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21684691625914",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 HIGH ST", "SANQUHAR", "DUMFRIES & GALLOWAY", "." ],
+        "TownName" : "SANQUHAR",
+        "CountrySubDivision" : [ "DUMFRIES & GALLOWAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.36751400",
+            "Longitude" : "-003.92391900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21914695778126",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HIGH STREET", "MELROSE", "BORDERS", "." ],
+        "TownName" : "MELROSE",
+        "CountrySubDivision" : [ "BORDERS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.59833900",
+            "Longitude" : "-002.72186300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2112469036342",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "26 HOME STREET", "EDINBURGH", "MIDLOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "MIDLOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.26099700",
+            "Longitude" : "-002.62667900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2115468347046",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "282 HOPE STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86631300",
+            "Longitude" : "-004.25635100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21534638654109",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "8 HOPETOUN STREET", "BATHGATE", "LOTHIAN", "." ],
+        "TownName" : "BATHGATE",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.90295500",
+            "Longitude" : "-003.64089100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21534638654109730",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "8 HOPETOUN STREET", "BATHGATE", "WEST LOTHIAN", "." ],
+        "TownName" : "BATHGATE",
+        "CountrySubDivision" : [ "WEST LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.90295500",
+            "Longitude" : "-003.64089100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21834678558286",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "60 HIGH STREET", "INVERGORDON", "HIGHLANDS", "." ],
+        "TownName" : "INVERGORDON",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.68828900",
+            "Longitude" : "-004.16973500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2194681973505",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "37 HIGH STREET", "INVERKEITHING", "FIFE", "." ],
+        "TownName" : "INVERKEITHING",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.03086300",
+            "Longitude" : "-003.39820200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "218046309629",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "69 HIGH STREET", "IRVINE", "STRATHCLYDE", "." ],
+        "TownName" : "IRVINE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.61440700",
+            "Longitude" : "-004.66663500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21734616573579",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "JAMES STREET", "DUNFERMLINE", "DUNFERMLINE", "." ],
+        "TownName" : "DUNFERMLINE",
+        "CountrySubDivision" : [ "DUNFERMLINE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.07229000",
+            "Longitude" : "-003.45999600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21184679541146",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "96 JOHN FINNIE STREET", "KILMARNOCK", "KILMARNOCK", "." ],
+        "TownName" : "KILMARNOCK",
+        "CountrySubDivision" : [ "KILMARNOCK" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.59923500",
+            "Longitude" : "-004.49319400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21184679541146510",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "96 JOHN FINNIE STREET", "KILMARNOCK", "STRATHCLYDE", "." ],
+        "TownName" : "KILMARNOCK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.59923500",
+            "Longitude" : "-004.49319400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2161466291285",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "70 JOHN STREET", "DUNOON", "STRATHCLYDE", "." ],
+        "TownName" : "DUNOON",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95144900",
+            "Longitude" : "-004.92785600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2184621828976",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "KILERMONT STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86549300",
+            "Longitude" : "-004.25205200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21784626278373",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "29 KILMARNOCK ROAD", "GLASGOW", "GLASGOW", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.82941000",
+            "Longitude" : "-004.28210900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2178462627837310",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "29 KILMARNOCK ROAD", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.82941000",
+            "Longitude" : "-004.28210900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21774687393047",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "133 KING STREET", "CASTLE DOUGLAS", "DUMFRIES & GALLOWAY", "." ],
+        "TownName" : "CASTLE DOUGLAS",
+        "CountrySubDivision" : [ "DUMFRIES & GALLOWAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "054.94021500",
+            "Longitude" : "-003.92999800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21544692604084",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "KINGS INCH ROAD", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.87632600",
+            "Longitude" : "-004.36352100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2134621496514",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "HIGH STREET", "KIRKCALDY", "KIRKCALDY", "." ],
+        "TownName" : "KIRKCALDY",
+        "CountrySubDivision" : [ "KIRKCALDY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.10923900",
+            "Longitude" : "-003.15926900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21734643118925",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "88 HIGH STREET", "LANARK", "LANARKSHIRE", "." ],
+        "TownName" : "LANARK",
+        "CountrySubDivision" : [ "LANARKSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.67348700",
+            "Longitude" : "-003.77682800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21954658986689",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "LENNOX PLACE", "CLYDEBANK", "STRATHCLYDE", "." ],
+        "TownName" : "CLYDEBANK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.91172500",
+            "Longitude" : "-004.42883700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21604647891121",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "51 LITTLE FRANCE CRESCENT", "EDINBURGH", "MIDLOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "MIDLOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.92180300",
+            "Longitude" : "-003.13595300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21544683575200",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "LOCHINVER", "LOCHINVER", "SUTHERLAND", "." ],
+        "TownName" : "LOCHINVER",
+        "CountrySubDivision" : [ "SUTHERLAND" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "058.14612100",
+            "Longitude" : "-005.23937200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21204658185174",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "21 HIGH STREET", "LOCHMABEN", "DUMFRIESSHIRE", "." ],
+        "TownName" : "LOCHMABEN",
+        "CountrySubDivision" : [ "DUMFRIESSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.12824200",
+            "Longitude" : "-003.44096700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2144626543405",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MACINTOSH ROAD", "LIVINGSTON", "LOTHIAN", "." ],
+        "TownName" : "LIVINGSTON",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.87956700",
+            "Longitude" : "-003.55685500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21624647978210",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MAIN STREET", "BOWMORE", "ISLE OF ISLAY", "." ],
+        "TownName" : "BOWMORE",
+        "CountrySubDivision" : [ "ISLE OF ISLAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.75664600",
+            "Longitude" : "-006.28800600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "219846695558",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "55 MAIN STREET", "CALLANDER", "PERTHSHIRE", "." ],
+        "TownName" : "CALLANDER",
+        "CountrySubDivision" : [ "PERTHSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.24412500",
+            "Longitude" : "-004.21509700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2163466332780",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "90 MAIN STREET", "CAMBUSLANG", "SOUTH LANARKSHIRE", "." ],
+        "TownName" : "CAMBUSLANG",
+        "CountrySubDivision" : [ "SOUTH LANARKSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.81871200",
+            "Longitude" : "-004.16704000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21624697395231",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MAIN STREET", "CAMPSIE", "STRATHCLYDE", "." ],
+        "TownName" : "CAMPSIE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.97453500",
+            "Longitude" : "-004.20204800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21274666641291",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "72 MAIN STREET", "CARNWATH", "LANARKSHIRE", "." ],
+        "TownName" : "CARNWATH",
+        "CountrySubDivision" : [ "LANARKSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.70066700",
+            "Longitude" : "-003.62479700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21384671424956",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "80 MAIN STREET", "COATBRIDGE", "STRATHCLYDE", "." ],
+        "TownName" : "COATBRIDGE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86177200",
+            "Longitude" : "-004.02669700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21634645741453",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "27 MAIN STREET", "DALMELLINGTON", "STRATHCLYDE", "." ],
+        "TownName" : "DALMELLINGTON",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.32300800",
+            "Longitude" : "-004.39874600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21624683704673",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MAIN STREET", "ISLE OF SOUTH UIST", "OUTER HEBRIDES", "." ],
+        "TownName" : "ISLE OF SOUTH UIST",
+        "CountrySubDivision" : [ "OUTER HEBRIDES" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.15468000",
+            "Longitude" : "-007.31657100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21734641985431",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "12 MAIN STREET", "KELTY", "FIFE", "." ],
+        "TownName" : "KELTY",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.13342600",
+            "Longitude" : "-003.37978100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2124643118925",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "88 MAIN STREET", "LANARK", "STRATHCLYDE", "." ],
+        "TownName" : "LANARK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.67348700",
+            "Longitude" : "-003.77682800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21314622333156",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "35/37 MAIN STREET", "LARGS", "STRATHCLYDE", "." ],
+        "TownName" : "LARGS",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.79429800",
+            "Longitude" : "-004.86870200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21724673279825",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 MAIN STREET", "NEW DEER", "ABERDEENSHIRE", "." ],
+        "TownName" : "NEW DEER",
+        "CountrySubDivision" : [ "ABERDEENSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.51298400",
+            "Longitude" : "-002.19385400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2174674306536",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "131 MAIN STREET", "NEWTONGRANGE", "MIDLOTHIAN", "." ],
+        "TownName" : "NEWTONGRANGE",
+        "CountrySubDivision" : [ "MIDLOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86462700",
+            "Longitude" : "-003.06659700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2124651857446",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "88 MAIN STREET", "RUTHERGLEN", "GLASGOW", "." ],
+        "TownName" : "RUTHERGLEN",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.82808400",
+            "Longitude" : "-004.21603800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2124651857446260",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "88 MAIN STREET", "RUTHERGLEN", "STRATHCLYDE", "." ],
+        "TownName" : "RUTHERGLEN",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.82808400",
+            "Longitude" : "-004.21603800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21414641049609",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "74 MAIN STREET", "WEST KILBRIDE", "NORTH AYRSHIRE", "." ],
+        "TownName" : "WEST KILBRIDE",
+        "CountrySubDivision" : [ "NORTH AYRSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.69516300",
+            "Longitude" : "-004.85637100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21774652689888",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "98 MAIN STREET", "WISHAW", "LANARKSHIRE", "." ],
+        "TownName" : "WISHAW",
+        "CountrySubDivision" : [ "LANARKSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.77535800",
+            "Longitude" : "-003.92221900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21774652689888260",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "98 MAIN STREET", "WISHAW", "STRATHCLYDE", "." ],
+        "TownName" : "WISHAW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.77535800",
+            "Longitude" : "-003.92221900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21724650491697",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "10 MARISCHAL STREET", "PETERHEAD", "GRAMPIAN", "." ],
+        "TownName" : "PETERHEAD",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.50542100",
+            "Longitude" : "-001.77937800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21754687056782",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 MARKET CENTRE", "FALKIRK", "CENTRAL", "." ],
+        "TownName" : "FALKIRK",
+        "CountrySubDivision" : [ "CENTRAL" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.00078100",
+            "Longitude" : "-003.78752200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2116464564911",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "21 MARKET PLACE", "INVERURIE", "GRAMPIAN", "." ],
+        "TownName" : "INVERURIE",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.28385300",
+            "Longitude" : "-002.37496600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21354676279505",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MARKET SQUARE", "STONEHAVEN", "GRAMPIAN", "." ],
+        "TownName" : "STONEHAVEN",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.96420000",
+            "Longitude" : "-002.20944800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21894679029433",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MARKET STREET", "KILSYTH", "STRATHCLYDE", "." ],
+        "TownName" : "KILSYTH",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.97584800",
+            "Longitude" : "-004.05577200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "217469036342",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "31 MARKETGATE", "CRAIL", "FIFE", "." ],
+        "TownName" : "CRAIL",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.26099700",
+            "Longitude" : "-002.62667900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21134616649190",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "15 MITCHELL WAY", "ALEXANDRIA", "DUNBARTONSHIRE", "." ],
+        "TownName" : "ALEXANDRIA",
+        "CountrySubDivision" : [ "DUNBARTONSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.98620600",
+            "Longitude" : "-004.58021500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21814699273212",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "1 MONCRIEFF STREET", "PAISLEY", "RENFREWSHIRE", "." ],
+        "TownName" : "PAISLEY",
+        "CountrySubDivision" : [ "RENFREWSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.84917600",
+            "Longitude" : "-004.42434100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21604699273212",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MONCRIEFF STREET", "PAISLEY", "STRATHCLYDE", "." ],
+        "TownName" : "PAISLEY",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.84917600",
+            "Longitude" : "-004.42434100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21254654044333",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "MURRAY PLACE", "STIRLING", "STIRLING", "." ],
+        "TownName" : "STIRLING",
+        "CountrySubDivision" : [ "STIRLING" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.11977800",
+            "Longitude" : "-003.93717500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2166463744141",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "89 HIGH STREET", "NEWBURGH", "FIFE", "." ],
+        "TownName" : "NEWBURGH",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.35094000",
+            "Longitude" : "-003.24020400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21354687056782",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 NEWMARKET CENTRE", "FALKIRK", "STIRLINGSHIRE", "." ],
+        "TownName" : "FALKIRK",
+        "CountrySubDivision" : [ "STIRLINGSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.00078100",
+            "Longitude" : "-003.78752200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21524677179844",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "NEWTON STREET", "GREENOCK", "STRATHCLYDE", "." ],
+        "TownName" : "GREENOCK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94266700",
+            "Longitude" : "-004.74198400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21634611804588",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 NICOLSON STREET", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94624100",
+            "Longitude" : "-003.18491500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2145466148500",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "NINEWELLS HOSPITAL", "DUNDEE", "TAYSIDE", "." ],
+        "TownName" : "DUNDEE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.46395500",
+            "Longitude" : "-003.03198700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21704665063179",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "17 NORTH BEACH", "STORNOWAY", "HIGHLANDS", "." ],
+        "TownName" : "STORNOWAY",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "058.20851100",
+            "Longitude" : "-006.39004400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21944658914723",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "31 NORTH BRIDGE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95084500",
+            "Longitude" : "-003.18739400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2176466316186",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "154 NORTH DEESIDE ROAD", "PETERCULTER", "GRAMPIAN", "." ],
+        "TownName" : "PETERCULTER",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.09638900",
+            "Longitude" : "-002.26704900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21144695363522",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "12 NORTH-WEST CIRCUS PLACE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95753900",
+            "Longitude" : "-003.20682000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21444650747768",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "OCEAN DRIVE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.98095700",
+            "Longitude" : "-003.17783500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2174622277878",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 OLD LISTON ROAD", "NEWBRIDGE", "LOTHIAN", "." ],
+        "TownName" : "NEWBRIDGE",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93902100",
+            "Longitude" : "-003.40821200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "211746651987",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "OLD SKENE ROAD", "WESTHILL", "WESTHILL", "." ],
+        "TownName" : "WESTHILL",
+        "CountrySubDivision" : [ "WESTHILL" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.15385800",
+            "Longitude" : "-002.27819100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21924698718857",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "11 OLRIG STREET", "THURSO", "HIGHLANDS", "." ],
+        "TownName" : "THURSO",
+        "CountrySubDivision" : [ "HIGHLANDS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "058.59531600",
+            "Longitude" : "-003.52063300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2143464602609",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2139 PAISLEY ROAD WEST", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.84571300",
+            "Longitude" : "-004.35512800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21864623416643",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "PALACE TOWERS", "HAMILTON", "HAMILTON", "." ],
+        "TownName" : "HAMILTON",
+        "CountrySubDivision" : [ "HAMILTON" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.77849700",
+            "Longitude" : "-004.02940400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21874620454684",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "PANMURE STREET", "DUNDEE", "TAYSIDE", "." ],
+        "TownName" : "DUNDEE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.46400100",
+            "Longitude" : "-002.96943900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21534667919094",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "PITREAVIE", "DUNFERMLINE", "FIFE", "." ],
+        "TownName" : "DUNFERMLINE",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.04767700",
+            "Longitude" : "-003.42318200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21674678901771",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "CASTLEBAY HS9 5XA", "CASTLEBAY", "ISLE OF BARRA", "." ],
+        "TownName" : "CASTLEBAY",
+        "CountrySubDivision" : [ "ISLE OF BARRA" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.91808500",
+            "Longitude" : "-007.53888600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21274685295115",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "11 PRINCES SQUARE", "EAST KILBRIDE", "STRATHCLYDE", "." ],
+        "TownName" : "EAST KILBRIDE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.76111300",
+            "Longitude" : "-004.17809300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21164667441413",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "142/144 PRINCES STREET", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95057100",
+            "Longitude" : "-003.20724400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2153465916202",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "PRINCES STREET", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95279300",
+            "Longitude" : "-003.19402000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2194669722",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "PROVAN WALK", "GLASGOW FORT SHOPPING CENTRE", "GLASGOW", "." ],
+        "TownName" : "GLASGOW FORT SHOPPING CENTRE",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.87176200",
+            "Longitude" : "-004.13839200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21834630573895",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "17 RANDOLPH STREET", "BUCKHAVEN", "LEVEN", "." ],
+        "TownName" : "BUCKHAVEN",
+        "CountrySubDivision" : [ "LEVEN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.17088500",
+            "Longitude" : "-003.03403400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21744613876820",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "1 REDHEUGHS AVENUE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.93240300",
+            "Longitude" : "-003.31002200"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21814693215833",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "REDHEUGHS AVENUE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.92899000",
+            "Longitude" : "-003.30224000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21664692422331",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "23/25 ROSSLYN STREET", "KIRKCALDY", "FIFE", "." ],
+        "TownName" : "KIRKCALDY",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.13045900",
+            "Longitude" : "-003.13649800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21446826597",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ROYAL BANK PLACE", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86063500",
+            "Longitude" : "-004.25373600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21554670417501",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ROYAL HIGHLAND CENTRE", "INGLISTON", "EDINBURGH", "." ],
+        "TownName" : "INGLISTON",
+        "CountrySubDivision" : [ "EDINBURGH" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.88477500",
+            "Longitude" : "-003.62805300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2134465122130",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 SANDGATE", "AYR", "AYRSHIRE", "." ],
+        "TownName" : "AYR",
+        "CountrySubDivision" : [ "AYRSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.46368100",
+            "Longitude" : "-004.63334800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2134465122130410",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 SANDGATE", "AYR", "STRATHCLYDE", "." ],
+        "TownName" : "AYR",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.46368100",
+            "Longitude" : "-004.63334800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "215246929392",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "SARACEN STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.88342100",
+            "Longitude" : "-004.25459300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21224618062805",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "SAUCHIEHALL STREET", "GLASGOW", "GLASGOW", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86493700",
+            "Longitude" : "-004.25981900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2122468436593",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "SAUCHIEHALL STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86422500",
+            "Longitude" : "-004.25402400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2141468436593",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "23 SAUCHIEHALL STREET", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86422500",
+            "Longitude" : "-004.25402400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21154678978141",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "SEAFIELD SQ", "ROTHES", "ABERLOUR", "." ],
+        "TownName" : "ROTHES",
+        "CountrySubDivision" : [ "ABERLOUR" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.52740900",
+            "Longitude" : "-003.20728600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21894670893029",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "1300 SHETTLESTON ROAD", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.85139100",
+            "Longitude" : "-004.16390600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21124643754998",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "39 SOUTH STREET", "ARMADALE", "LOTHIAN", "." ],
+        "TownName" : "ARMADALE",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.89714300",
+            "Longitude" : "-003.69966300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21494672361660",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "113 SOUTH STREET", "ST ANDREWS", "FIFE", "." ],
+        "TownName" : "ST ANDREWS",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.33951900",
+            "Longitude" : "-002.79640900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "212246927929",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "36 ST ANDREW SQUARE", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95421000",
+            "Longitude" : "-003.19153300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21754627325668",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "55 ST ENOCH SQUARE", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.85690600",
+            "Longitude" : "-004.25320100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21584634143903",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ST GILES CENTRE", "ELGIN", "SCOTLAND", "." ],
+        "TownName" : "ELGIN",
+        "CountrySubDivision" : [ "SCOTLAND" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.64930000",
+            "Longitude" : "-003.31503300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2104644876",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "10 ST JAMES TERRACE", "KILMACOLM", "RENFREWSHIRE", "." ],
+        "TownName" : "KILMACOLM",
+        "CountrySubDivision" : [ "RENFREWSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.89390900",
+            "Longitude" : "-004.62799000"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21514683728620",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "239 ST JOHNS ROAD", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94301600",
+            "Longitude" : "-003.28780300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2151468372862030",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "239 ST JOHNS ROAD", "EDINBURGH", "SOUTH GYLE", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "SOUTH GYLE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94301600",
+            "Longitude" : "-003.28780300"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21764673928683",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "ST MARYS PLACE", "ST ANDREWS", "FIFE", "." ],
+        "TownName" : "ST ANDREWS",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.34082400",
+            "Longitude" : "-002.80015700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21154688794320",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "8 ST MIRREN WAY", "PAISLEY", "STRATHCLYDE", "." ],
+        "TownName" : "PAISLEY",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.84499100",
+            "Longitude" : "-004.42372900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21584684524593",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "197 STATION BAR", "CARDENDEN", "FIFE", "." ],
+        "TownName" : "CARDENDEN",
+        "CountrySubDivision" : [ "FIFE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.14710800",
+            "Longitude" : "-003.26332900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2112462456192",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "STATION ROAD", "DUNBAR", "EAST LOTHIAN", "." ],
+        "TownName" : "DUNBAR",
+        "CountrySubDivision" : [ "EAST LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.99893100",
+            "Longitude" : "-002.51290600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2120464195597",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "277 STRATHMARTINE ROAD", "DUNDEE", "TAYSIDE", "." ],
+        "TownName" : "DUNDEE",
+        "CountrySubDivision" : [ "TAYSIDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "056.48526900",
+            "Longitude" : "-002.98984100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21324698901647",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 SYLVANIA WAY SOUTH", "CLYDEBANK", "CLYDEBANK", "." ],
+        "TownName" : "CLYDEBANK",
+        "CountrySubDivision" : [ "CLYDEBANK" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.90196500",
+            "Longitude" : "-004.40410100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21324698901647670",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "30 SYLVANIA WAY SOUTH", "CLYDEBANK", "STRATHCLYDE", "." ],
+        "TownName" : "CLYDEBANK",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.90196500",
+            "Longitude" : "-004.40410100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2198463806720",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "18 TAY WALK", "CUMBERNAULD", "CUMBERNAULD", "." ],
+        "TownName" : "CUMBERNAULD",
+        "CountrySubDivision" : [ "CUMBERNAULD" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94718500",
+            "Longitude" : "-003.99087900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2198463806720410",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "18 TAY WALK", "CUMBERNAULD", "STRATHCLYDE", "." ],
+        "TownName" : "CUMBERNAULD",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94718500",
+            "Longitude" : "-003.99087900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2141467032428",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "THE CROSS", "LOCHWINNOCH", "STRATHCLYDE", "." ],
+        "TownName" : "LOCHWINNOCH",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.79521300",
+            "Longitude" : "-004.62929800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2189461658927",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "THE GRASSMARKET", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94753500",
+            "Longitude" : "-003.19696500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2113468002391",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "THE PLAZA", "EAST KILBRIDE", "GLASGOW", "." ],
+        "TownName" : "EAST KILBRIDE",
+        "CountrySubDivision" : [ "GLASGOW" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.75981900",
+            "Longitude" : "-004.17956700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21784684496938",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "6 THE SQUARE", "KELSO", "BORDERS", "." ],
+        "TownName" : "KELSO",
+        "CountrySubDivision" : [ "BORDERS" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.59816100",
+            "Longitude" : "-002.43347400"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21164689672507",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "36 HIGH STREET", "TRANENT", "LOTHIAN", "." ],
+        "TownName" : "TRANENT",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.94426600",
+            "Longitude" : "-002.95263600"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21134691835286",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "78 UNION STREET", "ABERDEEN", "ABERDEENSHIRE", "." ],
+        "TownName" : "ABERDEEN",
+        "CountrySubDivision" : [ "ABERDEENSHIRE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.14701300",
+            "Longitude" : "-002.09816500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21134691835286440",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "78 UNION STREET", "ABERDEEN", "GRAMPIAN", "." ],
+        "TownName" : "ABERDEEN",
+        "CountrySubDivision" : [ "GRAMPIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "057.14701300",
+            "Longitude" : "-002.09816500"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2114680945905",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "VICTORIA ROAD", "GLASGOW", "STRATHCLYDE", "." ],
+        "TownName" : "GLASGOW",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.83686100",
+            "Longitude" : "-004.26508900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21254630171072",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "1 VICTORIA STREET", "KIRKWALL", "ORKNEY", "." ],
+        "TownName" : "KIRKWALL",
+        "CountrySubDivision" : [ "ORKNEY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "058.98031300",
+            "Longitude" : "-002.96151100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21194681382013",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "WAVERLEY STATION", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95206400",
+            "Longitude" : "-003.18956100"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21674694105470",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "74 WEST BLACKHALL STREET", "GREENOCK", "INVERCLYDE", "." ],
+        "TownName" : "GREENOCK",
+        "CountrySubDivision" : [ "INVERCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.95109500",
+            "Longitude" : "-004.76183700"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21734692006110",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "WEST MAINS ROAD", "EDINBURGH", "LOTHIAN", "." ],
+        "TownName" : "EDINBURGH",
+        "CountrySubDivision" : [ "LOTHIAN" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.86225200",
+            "Longitude" : "-003.07726900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "2113467923919",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "WESTWOOD SQUARE", "EAST KILBRIDE", "STRATHCLYDE", "." ],
+        "TownName" : "EAST KILBRIDE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.75725000",
+            "Longitude" : "-004.20165800"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21804626139717",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "2 WHITEHALL", "MAYBOLE", "STRATHCLYDE", "." ],
+        "TownName" : "MAYBOLE",
+        "CountrySubDivision" : [ "STRATHCLYDE" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.35338600",
+            "Longitude" : "-004.68366900"
+          }
+        }
+      }
+    }
+  }, {
+    "Identification" : "21484625286068",
+    "SupportedLanguages" : [ ],
+    "ATMServices" : [ ],
+    "Accessibility" : [ ],
+    "SupportedCurrencies" : [ "GBP" ],
+    "Note" : [ ],
+    "OtherAccessibility" : [ ],
+    "OtherATMServices" : [ ],
+    "Location" : {
+      "LocationCategory" : [ ],
+      "OtherLocationCategory" : [ ],
+      "PostalAddress" : {
+        "AddressLine" : [ "68 WHITESANDS", "DUMFRIES", "DUMFRIES AND GALLOWAY", "." ],
+        "TownName" : "DUMFRIES",
+        "CountrySubDivision" : [ "DUMFRIES AND GALLOWAY" ],
+        "Country" : "UK",
+        "PostCode" : ".",
+        "GeoLocation" : {
+          "GeographicCoordinates" : {
+            "Latitude" : "055.06765900",
+            "Longitude" : "-003.61232700"
+          }
+        }
+      }
+    }
+  } 
+]

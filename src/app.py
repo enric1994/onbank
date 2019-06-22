@@ -2,6 +2,7 @@ import os
 from flask import Flask, render_template, jsonify, request, Response
 from flask_bootstrap import Bootstrap
 from camera import VideoCamera
+from bson.json_util import loads, dumps
 
 # APP
 app = Flask(__name__)
@@ -50,7 +51,37 @@ def success():
 # MAP
 @app.route('/map')
 def map():
+
 	return render_template('map.html')
+
+
+# ATMs
+@app.route('/atms')
+def atms():
+
+	# Read
+	with open(os.path.join(static_path, 'data', 'atms.json')) as f:  
+		data = loads(f.read())
+	# Features
+	features = []
+	for line in data:
+		postal_address = line['Location']['PostalAddress']
+		address = ', '.join([ p for p in postal_address['AddressLine'] if p != '.' ]).title()
+		geolocation = postal_address['GeoLocation']['GeographicCoordinates']
+		features.append({
+        	"type": "Feature",
+        	"properties":  {
+            	'category': 'ATM',
+            	'popupContent': '<strong> ATM </strong>',
+				'address': address,
+
+        	},
+        	"geometry": {
+          		"type": "Point",
+          		"coordinates": [ float(geolocation['Longitude']), float(geolocation['Latitude']) ]
+        	}
+		})
+	return dumps(features)
 
 
 # CHECK
