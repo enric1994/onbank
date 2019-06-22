@@ -7,4 +7,5 @@ Flask \
 Flask-Bootstrap \
 opencv-python \
 face_recognition \
-pymongo
+pymongo \
+imutils
