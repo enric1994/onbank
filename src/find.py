@@ -5,7 +5,7 @@ import cv2
 
 def predict_user(image, encoding_path):
 	# load the known faces and embeddings
-	print("[INFO] loading encodings...")
+	# print("[INFO] loading encodings...")
 	data = pickle.loads(open(encoding_path, "rb").read())
 
 	# load the input image and convert it from BGR to RGB
@@ -14,7 +14,7 @@ def predict_user(image, encoding_path):
 	# detect the (x, y)-coordinates of the bounding boxes corresponding
 	# to each face in the input image, then compute the facial embeddings
 	# for each face
-	print("[INFO] recognizing faces...")
+	# print("[INFO] recognizing faces...")
 	boxes = face_recognition.face_locations(rgb,
 		model="hog")
 	encodings = face_recognition.face_encodings(rgb, boxes)
@@ -41,7 +41,7 @@ def predict_user(image, encoding_path):
 			# loop over the matched indexes and maintain a count for
 			# each recognized face face
 			for i in matchedIdxs:
-				name = data["names"][i]
+				name = data["names"][i].lower()
 				counts[name] = counts.get(name, 0) + 1
 
 			# determine the recognized face with the largest number of

@@ -1,0 +1,33 @@
+{
+    "enric": {
+        "name": "Enric Moreu",
+        "account balance": 50,
+        "credit card balance": 150,
+        "credit score": 400,
+        "standing orders": {
+            "netflix": 9.99,
+            "British Gas": 50
+        }
+    },
+    "david": {
+        "name": "David Azcona",
+        "account balance": 100,
+        "credit card balance": 250,
+        "credit score": 325,
+        "standing orders": {
+            "netflix": 9.99,
+            "vodafone": 39.99,
+            "British Gas": 90
+        }
+    },
+    "pierre": {
+        "name": "Enric Moreu",
+        "account balance": 350,
+        "credit card balance": 50,
+        "credit score": 500,
+        "standing orders": {
+            "HBO": 12.99,
+            "O2": 49.99
+        }
+    }
+}

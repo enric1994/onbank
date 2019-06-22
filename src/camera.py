@@ -2,8 +2,17 @@ import os
 import cv2
 import face_recognition
 from find import predict_user
+import json
 
-encodings_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'data', 'encodings', 'enric_david.pickle')
+# ENCODINGS
+ENCODINGS_NAME = 'enric_david_pierre.pickle'
+data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'data')
+encodings_path = os.path.join(data_path, 'encodings', ENCODINGS_NAME)
+
+# CUSTOMERS
+customers_path = os.path.join(data_path, 'customers.json')
+with open(customers_path) as f:
+    customers = json.load(f)
 
 class VideoCameraPhoto(object):
     
@@ -90,12 +99,33 @@ class VideoCameraRecognition(object):
         small_image = cv2.resize(image, (0, 0), fx=0.25, fy=0.25)
         small_image = small_image[:, :, ::-1]
         # Predict
-        names, boxes = predict_user(small_image, encodings_path)
-        for ((top, right, bottom, left), name) in zip(boxes, names):
-		    # draw the predicted face name on the image
-            cv2.rectangle(image, (left * 4, top * 4), (right * 4, bottom * 4), (0, 255, 0), 2)
-            y = top * 4 - 15 if top * 4 - 15 > 15 else top * 4 + 15
-            cv2.putText(image, name, (left * 4, y), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+        user_ids, boxes = predict_user(small_image, encodings_path)
+        # Only one user at a time
+        if len(user_ids) == 1:
+            # Name
+            user_id = user_ids[0]
+            if user_id in customers:
+                customer = customers[user_id]
+                for ((top, right, bottom, left), name) in zip(boxes, user_ids):
+                    # Resize back
+                    left *= 4
+                    top *= 4
+                    right *= 4
+                    bottom *= 4
+                    # draw the predicted face name on the image
+                    cv2.rectangle(image, (left, top), (right, bottom,), (0, 255, 0), 2)
+                    y = top - 15 if top - 15 > 15 else top + 15
+                    # Name
+                    cv2.putText(image, customer['name'], (left, y), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+                    # account balance, credit card balance
+                    balances = 'Balance: £{}'.format(customer['account balance'])
+                    cv2.putText(image, balances, (right, bottom), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+                    # direct debits
+                    orders = ', '.join([ '{}: {}'.format(k, v) for k, v in customer['standing orders'].items() ])
+                    cv2.putText(image, orders, (right, y), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+        elif len(user_ids) > 1:
+            cv2.putText(image, 'Watch out! You might have company', 
+                        (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 255), 2)
         # Encode the new image
         ret, jpeg = cv2.imencode('.jpg', image)
         return jpeg.tobytes()
