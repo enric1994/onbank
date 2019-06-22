@@ -113,19 +113,19 @@ class VideoCameraRecognition(object):
                     right *= 4
                     bottom *= 4
                     # draw the predicted face name on the image
-                    cv2.rectangle(image, (left, top), (right, bottom,), (0, 255, 0), 2)
+                    cv2.rectangle(image, (left, top), (right, bottom,), (210, 100, 50), 2)
                     y = top - 15 if top - 15 > 15 else top + 15
                     # Name
-                    cv2.putText(image, customer['name'], (left, y), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+                    cv2.putText(image, customer['name'], (left, y), cv2.FONT_HERSHEY_TRIPLEX, 1, (20, 20, 20), 2)
                     # account balance, credit card balance
                     balances = 'Balance: £{}'.format(customer['account balance'])
-                    cv2.putText(image, balances, (right, bottom), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+                    cv2.putText(image, balances, (right - left +20, bottom + 20), cv2.FONT_HERSHEY_TRIPLEX, 0.75, (20, 20, 20), 2)
                     # direct debits
                     orders = ', '.join([ '{}: {}'.format(k, v) for k, v in customer['standing orders'].items() ])
-                    cv2.putText(image, orders, (right, y), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 255, 0), 2)
+                    cv2.putText(image, orders, (right +20, y + 20), cv2.FONT_HERSHEY_TRIPLEX, 0.75, (20, 20, 20), 2)
         elif len(user_ids) > 1:
             cv2.putText(image, 'Watch out! You might have company', 
-                        (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 255), 2)
+                        (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, (0, 0, 0), 2)
         # Encode the new image
         ret, jpeg = cv2.imencode('.jpg', image)
         return jpeg.tobytes()
