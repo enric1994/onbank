@@ -106,13 +106,16 @@ def branches():
 	features = []
 	for line in data:
 		name = line['Name'].title()
-		geolocation = line['GeoLocation']
+		postal_address = line['PostalAddress']
+		if 'GeoLocation' not in postal_address:
+			continue
+		geolocation = postal_address['GeoLocation']['GeographicCoordinates']
 		features.append({
         	"type": "Feature",
         	"properties":  {
             	'category': 'Branch',
             	'popupContent': '<strong> Branch </strong>',
-				'address': address,
+				'name': name,
 
         	},
         	"geometry": {

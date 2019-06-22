@@ -57,7 +57,7 @@ crossorigin=""></script>
 
 <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
 
-<script src={{ url_for('static', filename='js/atms.js') }}></script>
+<script src={{ url_for('static', filename='js/data.js') }}></script>
 
 <script>
     
@@ -72,8 +72,6 @@ crossorigin=""></script>
         id: 'mapbox.streets' // streets, satellite-streets, light, dark, outdoors
     }).addTo(map);
 
-    // var marker = L.marker([55.934994, -3.334855]).addTo(map)
-
     var atmIcon = L.icon({
 		iconUrl: src="{{ url_for('static', filename='img/ATM.png') }}",
 		iconSize: [50, 50],
@@ -83,7 +81,14 @@ crossorigin=""></script>
 
     var branchIcon = L.icon({
 		iconUrl: src="{{ url_for('static', filename='img/branch.jpg') }}",
-		iconSize: [32, 37],
+		iconSize: [50, 50],
+		iconAnchor: [16, 37],
+		popupAnchor: [0, -28]
+    });
+
+    var postIcon = L.icon({
+		iconUrl: src="{{ url_for('static', filename='img/postoffice.png') }}",
+		iconSize: [50, 40],
 		iconAnchor: [16, 37],
 		popupAnchor: [0, -28]
     });
@@ -94,7 +99,9 @@ crossorigin=""></script>
         var id;
         var popupContent = "";
         if (feature.properties && feature.properties.address) {
-            popupContent += feature.properties.address;
+            popupContent += '<strong> ATM </strong><br>' + feature.properties.address;
+        } else if (feature.properties && feature.properties.name) {
+            popupContent += '<strong> Branch </strong><br>' + feature.properties.name;
         }
         layer.bindPopup(popupContent);
     }
@@ -107,7 +114,6 @@ crossorigin=""></script>
             else {
                 icon = branchIcon;
             }
-
             return L.marker(latlng, { icon: icon });
         },
         onEachFeature: onFeature,
@@ -118,6 +124,10 @@ crossorigin=""></script>
             map.setView(event.latlng);    
         }
     });
+
+    // POST OFFICE
+
+    L.marker([55.937585, -3.276996], { icon: postIcon }).addTo(map).bindPopup("Post Office");
 
 </script>
 
