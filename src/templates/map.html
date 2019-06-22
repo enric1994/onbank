@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
 	<title>ONbank</title>
-
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
+	<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
-
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" 
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
 
@@ -32,6 +29,26 @@
 </head>
 <body>
 
+<div class="navbar navbar-inverse navbar-static-top" role="navigation" style="background-color: #133264;">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand">
+                <strong>
+                    <a href="/">
+                        <span style="color:#FFF700;">ON</span><span style="color:#FFFFFF;">bank</span>
+                    </a>
+                </strong>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div id='map'></div>
 
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" 
@@ -40,18 +57,67 @@ crossorigin=""></script>
 
 <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
 
+<script src={{ url_for('static', filename='js/atms.js') }}></script>
+
 <script>
     
     var map = L.map('map').setView([55.935033, -3.333825], 17);
 
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-        minZoom: 15,
+        minZoom: 1,
         maxZoom: 19,
         attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
             '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
             'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
         id: 'mapbox.streets' // streets, satellite-streets, light, dark, outdoors
     }).addTo(map);
+
+    // var marker = L.marker([55.934994, -3.334855]).addTo(map)
+
+    var atmIcon = L.icon({
+		iconUrl: src="{{ url_for('static', filename='img/ATM.png') }}",
+		iconSize: [50, 75],
+		iconAnchor: [16, 37],
+		popupAnchor: [0, -28]
+    });
+
+    var branchIcon = L.icon({
+		iconUrl: src="{{ url_for('static', filename='img/branch.jpg') }}",
+		iconSize: [32, 37],
+		iconAnchor: [16, 37],
+		popupAnchor: [0, -28]
+    });
+
+    // DATA
+
+	function onFeature(feature, layer) {
+        var id;
+        var popupContent = "";
+        if (feature.properties && feature.properties.address) {
+            popupContent += feature.properties.address;
+        }
+        layer.bindPopup(popupContent);
+    }
+
+    L.geoJSON(data, {
+        pointToLayer: function (feature, latlng) {
+            if (feature.properties.category == 'ATM'){
+                icon = atmIcon;
+            }
+            else {
+                icon = branchIcon;
+            }
+
+            return L.marker(latlng, { icon: icon });
+        },
+        onEachFeature: onFeature,
+
+    }).addTo(map).on('click', function (event) {
+        if (event.latlng) {
+            // Center MAP
+            map.setView(event.latlng);    
+        }
+    });
 
 </script>
 
