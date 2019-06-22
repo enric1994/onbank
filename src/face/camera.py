@@ -17,17 +17,23 @@ class VideoCamera(object):
     def get_frame(self):
         success, image = self.video.read()
         # image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-        # face_locations = face_recognition.face_locations(image, model="cnn")
+
+        small_frame = cv2.resize(image, (0, 0), fx=0.25, fy=0.25)
+
+    # Convert the image from BGR color (which OpenCV uses) to RGB color (which face_recognition uses)
+        rgb_small_frame = small_frame[:, :, ::-1]
+
+        face_locations = face_recognition.face_locations(rgb_small_frame, model="hog")
         
-        # for top, right, bottom, left in face_locations:
+        for top, right, bottom, left in face_locations:
         
-        #     top *= 4
-        #     right *= 4
-        #     bottom *= 4
-        #     left *= 4
+            top *= 4
+            right *= 4
+            bottom *= 4
+            left *= 4
 
         #     # Draw a box around the face
-        #     cv2.rectangle(image, (left, top), (right, bottom), (0, 0, 255), 2)
+            cv2.rectangle(image, (left, top), (right, bottom), (0, 0, 255), 2)
 
 
         # We are using Motion JPEG, but OpenCV defaults to capture raw images,
