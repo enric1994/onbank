@@ -3,6 +3,7 @@ from flask import Flask, render_template, jsonify, request, Response
 from flask_bootstrap import Bootstrap
 from camera import VideoCameraPhoto, VideoCameraRecognition
 from bson.json_util import loads, dumps
+from gen_id import generate
 
 # APP
 app = Flask(__name__)
@@ -56,6 +57,8 @@ def videocamerarecognition():
 # SUCCESS
 @app.route('/success')
 def success():
+	generate()
+	return render_template('success.html')
 	name = 'David Azcona'
 	return render_template('success.html', name=name)
 
