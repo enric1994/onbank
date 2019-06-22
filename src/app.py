@@ -57,8 +57,7 @@ def videocamerarecognition():
 # SUCCESS
 @app.route('/success')
 def success():
-	generate()
-	return render_template('success.html')
+	# generate()
 	name = 'David Azcona'
 	return render_template('success.html', name=name)
 

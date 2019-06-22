@@ -9,7 +9,6 @@ def predict_user(image, encoding_path):
 	data = pickle.loads(open(encoding_path, "rb").read())
 
 	# load the input image and convert it from BGR to RGB
-	image = cv2.imread(image)
 	rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
 	# detect the (x, y)-coordinates of the bounding boxes corresponding
