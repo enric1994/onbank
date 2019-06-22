@@ -16,6 +16,7 @@ class VideoCamera(object):
     
     def get_frame(self):
         success, image = self.video.read()
+        cv2.imwrite("/code/src/static/img/face.png",image)
         small_image = cv2.resize(image, (0, 0), fx=0.25, fy=0.25)
         small_image = small_image[:, :, ::-1]
 
