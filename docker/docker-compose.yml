@@ -8,37 +8,14 @@ services:
     working_dir: /code
     build:
       context: ../
-      dockerfile: docker/Dockerfile.face
+      dockerfile: docker/Dockerfile
     ports:
       - "5000:5000"
     environment:
       - PYTHONPATH=/code
-      # Uncomment the following line to plot images on Linux
-      #- DISPLAY=unix$DISPLAY
-      # Set a password to your Jupyter Notebook
-      #- PASSWORD=testpass
     volumes:
       - ../:/code
-      #Share the webcam with the container
       - /dev/video0:/dev/video0
-      # Uncomment the following line to plot images on Linux
-      #- /tmp/.X11-unix:/tmp/.X11-unix
-    runtime: nvidia
+
     privileged: true
     command: tail /dev/null -f
-
-  # face:
-  #   image: face
-  #   container_name: face
-  #   working_dir: /face/src/face
-  #   build:
-  #     context: ..
-  #     dockerfile: docker/Dockerfile.face
-  #   ports:
-  #     - 5000:5000
-  #   volumes:
-  #     - ../:/face
-  #     - /dev/video0:/dev/video0
-  #   command: tail /dev/null -f
-  #   privileged: true
-  #   runtime: nvidia
