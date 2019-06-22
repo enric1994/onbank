@@ -5,19 +5,21 @@
 
     <div class="jumbotron">
 
-        <img width="50px" height="50px" src="{{ url_for('static', filename='img/tick.png') }}"><h2>Congratulations!</h2>
+        <div class="row">
+            <img class="col-md-1" width="50px" height="50px" src="{{ url_for('static', filename='img/tick.png') }}">
+            <h2>Congratulations {{ name }}!</h2>
+        </div>
 
-        <br>
+        <hr class="my-4">
 
-        <p> 
-            {{ name }}, your account has been <strong>opened</strong>.
-            How can we help you? 
+        <h4 class="lead">
+            Your account has been <strong>opened</strong>, how can we help you now? 
             <ol> 
                 <li> Give you a secured credit card (£100 to £1000 deposit required) </li>
                 <li> Help you save money on utilities bill </li>
                 <li> Link you to the government 'Help to Save' scheme (get 50p interest on every £1 saved) </li>
             </ol>
-        </p>
+        </h4>
 
         <a class="btn btn-primary btn-lg" href="map" role="button">Check out the nearby branches and ATMs!</a>
 

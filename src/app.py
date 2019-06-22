@@ -49,7 +49,8 @@ def video_feed():
 # SUCCESS
 @app.route('/success')
 def success():
-	return render_template('success.html')
+	name = 'David Azcona'
+	return render_template('success.html', name=name)
 
 
 # MAP
