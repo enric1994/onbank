@@ -1,0 +1,6 @@
+Flask
+Flask-Bootstrap
+pymongo
+opencv-python
+cmake
+face_recognition

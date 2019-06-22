@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, jsonify, request, Response
 from flask_bootstrap import Bootstrap
-from camera import VideoCamera
+from camera import VideoCameraPhoto, VideoCameraRecognition
 from bson.json_util import loads, dumps
 from gen_id import generate
 
@@ -40,10 +40,17 @@ def gen(camera):
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n\r\n')
 
 
-# VIDEO FEED
-@app.route('/video_feed')
-def video_feed():
-    return Response(gen(VideoCamera()),
+# VIDEO CAMERA PHOTO
+@app.route('/videocameraphoto')
+def videocameraphoto():
+    return Response(gen(VideoCameraPhoto()),
+                    mimetype='multipart/x-mixed-replace; boundary=frame')
+
+
+# VIDEO CAMERA RECOGNITION
+@app.route('/videocamerarecognition')
+def videocamerarecognition():
+    return Response(gen(VideoCameraRecognition()),
                     mimetype='multipart/x-mixed-replace; boundary=frame')
 
 
