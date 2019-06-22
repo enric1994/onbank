@@ -2,9 +2,14 @@
 {% import "bootstrap/wtf.html" as wtf %}
 
 {% block page_content %}
-
-    <img id="bg" src="{{ url_for('video_feed') }}">
-
-    <a class="btn btn-primary btn-lg" href="success" role="button">Next</a>
+    
+    <img style="width: 90%" src="{{ url_for('video_feed') }}">
+    
+    <br>
+    <br>
+    
+    <div>
+        <a class="btn btn-primary btn-lg" href="success" role="button">Capture your identity</a>
+    </div>
 
 {% endblock %}
