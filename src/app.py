@@ -30,12 +30,16 @@ def info():
 def picture():
 	return render_template('picture.html')
 
+
+# CAMERA GET FRAME
 def gen(camera):
     while True:
         frame = camera.get_frame()
         yield (b'--frame\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n\r\n')
 
+
+# VIDEO FEED
 @app.route('/video_feed')
 def video_feed():
     return Response(gen(VideoCamera()),
@@ -53,6 +57,12 @@ def success():
 def map():
 
 	return render_template('map.html')
+
+
+# CHECK
+@app.route('/check')
+def check():
+	return render_template('check.html')
 
 
 # ATMs
@@ -84,10 +94,33 @@ def atms():
 	return dumps(features)
 
 
-# CHECK
-@app.route('/check')
-def check():
-	return render_template('check.html')
+# BRANCHES
+@app.route('/branches')
+def branches():
+
+	# Read
+	with open(os.path.join(static_path, 'data', 'branches.json')) as f:  
+		data = loads(f.read())
+
+	# Features
+	features = []
+	for line in data:
+		name = line['Name'].title()
+		geolocation = line['GeoLocation']
+		features.append({
+        	"type": "Feature",
+        	"properties":  {
+            	'category': 'Branch',
+            	'popupContent': '<strong> Branch </strong>',
+				'address': address,
+
+        	},
+        	"geometry": {
+          		"type": "Point",
+          		"coordinates": [ float(geolocation['Longitude']), float(geolocation['Latitude']) ]
+        	}
+		})
+	return dumps(features)
 
 
 if __name__ == '__main__':

@@ -15,7 +15,7 @@ services:
       - PYTHONPATH=/code
     volumes:
       - ../:/code
-      - /dev/video0:/dev/video0
+    #  - /dev/video0:/dev/video0
 
-    privileged: true
+    #privileged: true
     command: tail /dev/null -f
