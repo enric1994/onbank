@@ -6,3 +6,6 @@ face.png
 **/__pycache__
 **/env/
 **/.vscode/
+*.png
+*.jpeg
+*.jpg

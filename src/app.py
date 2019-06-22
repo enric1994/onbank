@@ -3,6 +3,7 @@ from flask import Flask, render_template, jsonify, request, Response
 from flask_bootstrap import Bootstrap
 from camera import VideoCamera
 from bson.json_util import loads, dumps
+from gen_id import generate
 
 # APP
 app = Flask(__name__)
@@ -49,6 +50,7 @@ def video_feed():
 # SUCCESS
 @app.route('/success')
 def success():
+	generate()
 	return render_template('success.html')
 
 
