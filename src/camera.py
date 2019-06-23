@@ -18,6 +18,7 @@ with open(customers_path) as f:
 white = (255, 255, 255)
 blue = (20, 20, 20)
 black = (0, 0, 0)
+red = (0, 0, 255)
 
 class VideoCameraPhoto(object):
     
@@ -123,7 +124,8 @@ class VideoCameraRecognition(object):
                     centerY = top + (bottom-top)/2
                     sizeX = (right - left)*0.5
                     sizeY = (bottom-top) *0.7
-                    cv2.ellipse(image,(int(centerX), int(centerY)),(int(sizeX),int(sizeY)),0,0,360,255,2)
+                    cv2.ellipse(image,(int(centerX), int(centerY)), (int(sizeX), int(sizeY)), 0, 1, 360, (0,255,0), 3)
+                    cv2.ellipse(image,(int(centerX), int(centerY)), (int(sizeX) + 2, int(sizeY) + 2), 0, 0, 360, 0, 2)
                     # Normalized Y
                     y = top - 15 if top - 15 > 15 else top + 15
                     # Name
@@ -151,8 +153,8 @@ class VideoCameraRecognition(object):
                     cv2.putText(image, str(customer['credit score']), (left - 100, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
                     cv2.putText(image, str(customer['credit score']), (left - 100, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
         elif len(user_ids) > 1:
-            cv2.putText(image, 'Watch out! You might have company', (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
-            cv2.putText(image, 'Watch out! You might have company', (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
+            cv2.putText(image, 'ALERT! Additional face detected', (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+            cv2.putText(image, 'ALERT! Additional face detected', (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, red, 2)
         # Encode the new image
         ret, jpeg = cv2.imencode('.jpg', image)
         return jpeg.tobytes()
