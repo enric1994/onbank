@@ -14,6 +14,11 @@ customers_path = os.path.join(data_path, 'customers.json')
 with open(customers_path) as f:
     customers = json.load(f)
 
+# COLORS
+white = (255, 255, 255)
+blue = (20, 20, 20)
+black = (0, 0, 0)
+
 class VideoCameraPhoto(object):
     
     def __init__(self):
@@ -113,19 +118,41 @@ class VideoCameraRecognition(object):
                     right *= 4
                     bottom *= 4
                     # draw the predicted face name on the image
-                    cv2.rectangle(image, (left, top), (right, bottom,), (210, 100, 50), 2)
+                    # cv2.rectangle(image, (left, top), (right, bottom,), (210, 100, 50), 2)
+                    centerX = left + (right-left)/2
+                    centerY = top + (bottom-top)/2
+                    sizeX = (right - left)*0.5
+                    sizeY = (bottom-top) *0.7
+                    cv2.ellipse(image,(int(centerX), int(centerY)),(int(sizeX),int(sizeY)),0,0,360,255,2)
+                    # Normalized Y
                     y = top - 15 if top - 15 > 15 else top + 15
                     # Name
-                    cv2.putText(image, customer['name'], (left, y), cv2.FONT_HERSHEY_TRIPLEX, 1, (20, 20, 20), 2)
+                    cv2.putText(image, customer['name'], (left + 50, y - 50), cv2.FONT_HERSHEY_TRIPLEX, 1, black, 4)
+                    cv2.putText(image, customer['name'], (left + 50, y - 50), cv2.FONT_HERSHEY_TRIPLEX, 1, white, 2)
                     # account balance, credit card balance
-                    balances = 'Balance: £{}'.format(customer['account balance'])
-                    cv2.putText(image, balances, (right - left +20, bottom + 20), cv2.FONT_HERSHEY_TRIPLEX, 0.75, (20, 20, 20), 2)
+                    balances = 'Balance: {} GBP'.format(customer['account balance'])
+                    cv2.putText(image, balances, (left + 50, bottom + 80), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+                    cv2.putText(image, balances, (left + 50, bottom + 80), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
                     # direct debits
-                    orders = ', '.join([ '{}: {}'.format(k, v) for k, v in customer['standing orders'].items() ])
-                    cv2.putText(image, orders, (right +20, y + 20), cv2.FONT_HERSHEY_TRIPLEX, 0.75, (20, 20, 20), 2)
+                    position = y + 50
+                    cv2.putText(image, 'Direct Debits:', (right + 30, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+                    cv2.putText(image, 'Direct Debits:', (right + 30, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
+                    position += 40
+                    orders = [ '{}: {} GBP'.format(k, v) for k, v in customer['standing orders'].items() ]
+                    for order in orders:
+                        cv2.putText(image, order, (right + 30, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+                        cv2.putText(image, order, (right + 30, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
+                        position += 40
+                    # Credit Score
+                    position = y + 100
+                    cv2.putText(image, 'Credit Score:', (left - 175, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+                    cv2.putText(image, 'Credit Score:', (left - 175, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
+                    position += 40
+                    cv2.putText(image, str(customer['credit score']), (left - 100, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+                    cv2.putText(image, str(customer['credit score']), (left - 100, position), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
         elif len(user_ids) > 1:
-            cv2.putText(image, 'Watch out! You might have company', 
-                        (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, (0, 0, 0), 2)
+            cv2.putText(image, 'Watch out! You might have company', (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, black, 4)
+            cv2.putText(image, 'Watch out! You might have company', (10, 30), cv2.FONT_HERSHEY_TRIPLEX, 0.75, white, 2)
         # Encode the new image
         ret, jpeg = cv2.imencode('.jpg', image)
         return jpeg.tobytes()

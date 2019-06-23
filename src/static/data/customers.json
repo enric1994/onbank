@@ -5,7 +5,7 @@
         "credit card balance": 150,
         "credit score": 400,
         "standing orders": {
-            "netflix": 9.99,
+            "Netflix": 9.99,
             "British Gas": 50
         }
     },
@@ -15,8 +15,8 @@
         "credit card balance": 250,
         "credit score": 325,
         "standing orders": {
-            "netflix": 9.99,
-            "vodafone": 39.99,
+            "Netflix": 9.99,
+            "Vodafone": 39.99,
             "British Gas": 90
         }
     },
