@@ -5,7 +5,7 @@ from find import predict_user
 import json
 
 # ENCODINGS
-ENCODINGS_NAME = 'enric_david_pierre.pickle'
+ENCODINGS_NAME = 'enric_davidV2.pickle'
 data_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static', 'data')
 encodings_path = os.path.join(data_path, 'encodings', ENCODINGS_NAME)
 
